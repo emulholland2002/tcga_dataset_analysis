@@ -48,9 +48,3 @@ The following Python libraries are used:
    jupyter notebook TCGA_Dataset_Analysis.ipynb
    ```
 
-## 📌 Notes
-
-- Make sure to handle missing values before scaling.
-- Review the data distribution before choosing a scaling technique.
-- The notebook is designed for flexible reuse with similar transcriptomic datasets.
-
